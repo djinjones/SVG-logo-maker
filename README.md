@@ -79,7 +79,7 @@ If you're interested in contributing to the project, please read our Contributin
 - [Github banner generator](https://leviarista.github.io/github-profile-header-generator/)
 - [Github markdown-badges](https://ileriayo.github.io/markdown-badges/)
 - [weatherapi.com](https://www.weatherapi.com/docs/)
-- [Suno AI generated music](https://www.suno.com)
+
 
 
 ## License
